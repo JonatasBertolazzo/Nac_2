@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Nac_1</string>
+    <string name="hintBuscaCep">Digite o numero do cep</string>
+</resources>
